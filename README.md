@@ -4,15 +4,15 @@ PlayStation emulator written in Zig.
 
 The plan is to create a fully working emulator with a libretro core.
 
-# Current Progress
+## Current Progress
 
 - Can load the BIOS from a file.
 
-# TODO
+## TODO
 
 - Pretty much everything.
 
-# Resources
+## Resources
 
 - [No$ PSX Specifications](http://problemkaputt.de/psx-spx.htm)
 - [PlayStation Emulation Guide](https://svkt.org/~simias/guide.pdf)
