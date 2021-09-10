@@ -26,7 +26,7 @@ pub fn main() !void {
     var memory = Memory.init(bios);
     var cpu = CPU.init(&memory);
 
-    while(true) {
+    while (true) {
         cpu.step();
     }
 }
